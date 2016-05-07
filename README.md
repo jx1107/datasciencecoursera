@@ -1,2 +1,2 @@
-# first_repository_for_class
+# datasciencecoursera
 Demo Repo

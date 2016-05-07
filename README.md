@@ -1,2 +1,0 @@
-# datasciencecoursera
-Demo Repo
